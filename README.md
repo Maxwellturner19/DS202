@@ -1,5 +1,6 @@
 # DS202 Data Science for Social Scientists
 
+{DS202 LSE}(https://lse-dsi.github.io/DS202/2023/winter-term/syllabus.html)
 
 # Part 01
 
