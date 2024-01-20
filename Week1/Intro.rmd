@@ -1,0 +1,55 @@
+*ITALICS*
+**BOLD**
+***BOLD ITALICS***
+
+~~STRIKETHROUGH~~
+
+'VERBATIM CODE' 
+
+
+#HEADER 1
+##HEADER 2
+###HEADER 3
+####HEADER 4
+#####HEADER 5
+######HEADER 6
+
+''' R
+LINKS GO IN < >
+'''
+
+<https://www.google.com>
+
+#LINKS CAN BE EMBEDDED INTO TEXT AS
+
+[GOOGLE](https://www.google.com)
+
+# OR AS A CAPTION OR AS A PICTURE 
+
+unordered list
+    + sub-item 1
+    + sub-item 2
+        - sub-sub-item 1
+
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+
+
+display math:
+
+$$E = mc^{2}$$
+
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
